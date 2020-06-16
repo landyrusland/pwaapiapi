@@ -1,0 +1,23 @@
+{
+"produk":
+[{"id":1,"name":"Whip-tailed wallaby","category":"Aquamarine"},
+{"id":2,"name":"Phascogale, red-tailed","category":"Aquamarine"},
+{"id":3,"name":"Shrike, southern white-crowned","category":"Violet"},
+{"id":4,"name":"Desert kangaroo rat","category":"Yellow"},
+{"id":5,"name":"Crane, sarus","category":"Orange"},
+{"id":6,"name":"Red-billed toucan","category":"Crimson"},
+{"id":7,"name":"Dark-winged trumpeter","category":"Blue"},
+{"id":8,"name":"Yellow baboon","category":"Aquamarine"},
+{"id":9,"name":"Vulture, griffon","category":"Red"},
+{"id":10,"name":"Boat-billed heron","category":"Goldenrod"},
+{"id":11,"name":"White-browed sparrow weaver","category":"Mauv"},
+{"id":12,"name":"Caracara (unidentified)","category":"Green"},
+{"id":13,"name":"South African hedgehog","category":"Maroon"},
+{"id":14,"name":"Arctic ground squirrel","category":"Orange"},
+{"id":15,"name":"Common dolphin","category":"Fuscia"},
+{"id":16,"name":"Southern lapwing","category":"Blue"},
+{"id":17,"name":"Tamandua, southern","category":"Purple"},
+{"id":18,"name":"Cape starling","category":"Green"},
+{"id":19,"name":"Bat, asian false vampire","category":"Teal"},
+{"id":20,"name":"Black-collared barbet","category":"Turquoise"}]
+}
